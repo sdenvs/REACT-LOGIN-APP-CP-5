@@ -16,3 +16,13 @@
   align-items: center;
   min-height: 200px;
 }
+/* Write your CSS here */
+.button {
+  width: 100px;
+  height: 45px;
+  border-style: none;
+  background-color: #ffffff;
+  color: #303150;
+  border-radius: 8px;
+  font-size: 20px;
+}

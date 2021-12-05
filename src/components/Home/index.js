@@ -23,9 +23,9 @@ class Home extends Component {
       <div className="home">
         <div className="card">
           <Message login={login} />
-          <div tabIndex={0} role="button" onClick={this.change}>
+          <button className="button" onClick={this.change}>
             {login ? LogoutButton : LoginButton}
-          </div>
+          </button>
         </div>
       </div>
     )
