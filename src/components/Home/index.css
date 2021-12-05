@@ -1,1 +1,18 @@
 /* Write your CSS here */
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 50%;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}

@@ -1,1 +1,7 @@
 /* Write your CSS here */
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+}
